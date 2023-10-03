@@ -1,0 +1,48 @@
+{
+  "todos": [
+    {
+      "id": "11719144-a3b9-4a14-8116-44c0b38ead78",
+      "title": "aaaaaaaaaaaaaaaabbbcccddd",
+      "date": "2023-10-03T08:56:43.484Z",
+      "isDone": false
+    },
+    {
+      "id": "93a1668e-cc8d-4304-8f84-8ae153f661ec",
+      "title": "dddddddddddd",
+      "date": "2023-10-03T08:56:52.280Z",
+      "isDone": true
+    },
+    {
+      "id": "14bd23d1-d18f-49ee-8f74-fb6ff55e40c6",
+      "title": "sssssssssss",
+      "date": "2023-10-03T08:56:54.266Z",
+      "isDone": true
+    },
+    {
+      "id": "9231e9dd-9488-458f-bcae-4b5188d80ac2",
+      "title": "rrrrrrrrrrrrr",
+      "date": "2023-10-03T08:56:56.659Z",
+      "isDone": true
+    },
+    {
+      "id": "908ca5ca-ef1e-48ba-b175-bd999ee8231c",
+      "title": "yyyyyyyyyyyy",
+      "date": "2023-10-03T08:56:59.416Z",
+      "isDone": false
+    }
+  ],
+  "users": [
+    {
+      "id": "11asd23234",
+      "name": "Ahmet",
+      "email": "ahmet0@gmail.com"
+    }
+  ],
+  "categories": [
+    {
+      "id": "asfksk143",
+      "title": "İş",
+      "image": "www.resim.com"
+    }
+  ]
+}
